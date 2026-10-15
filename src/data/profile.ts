@@ -44,7 +44,7 @@ export const profile: Profile = {
     ],
   },
   contact: {
-    email: 'your.email@example.com',
+    email: 'mimifahmidaalam@gmail.com',
     location: 'Bangladesh',
   },
   // BASE_URL keeps these working when the site is served from a subpath (GitHub Pages).
@@ -63,24 +63,21 @@ export const navLinks: NavLinkItem[] = [
   { id: 'contact', label: 'Contact' },
 ]
 
-/**
- * Social / public links.
- * 🔁 Replace the placeholder URLs with your real profiles before publishing.
- */
+/** Social / public links shown in the hero, contact section and footer. */
 export const socialLinks: SocialLinkItem[] = [
   {
     id: 'github',
     label: 'GitHub',
-    href: 'https://github.com/your-github-username',
+    href: 'https://github.com/mimifahmidaalam-dev',
   },
   {
     id: 'linkedin',
     label: 'LinkedIn',
-    href: 'https://www.linkedin.com/in/your-linkedin-username',
+    href: 'https://www.linkedin.com/in/fahmida-alam-0mumu0',
   },
   {
     id: 'email',
     label: 'Email',
-    href: 'mailto:your.email@example.com',
+    href: 'mailto:mimifahmidaalam@gmail.com',
   },
 ]
