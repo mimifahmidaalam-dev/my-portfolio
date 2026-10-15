@@ -48,7 +48,7 @@ export const profile: Profile = {
     location: 'Bangladesh',
   },
   // BASE_URL keeps these working when the site is served from a subpath (GitHub Pages).
-  profileImage: `${import.meta.env.BASE_URL}images/profile-placeholder.svg`,
+  profileImage: `${import.meta.env.BASE_URL}images/profile.jpg`,
   cvUrl: `${import.meta.env.BASE_URL}Fahmida-Alam-Mimi-CV.pdf`,
   availability: 'Open to internships & junior frontend roles',
 }
